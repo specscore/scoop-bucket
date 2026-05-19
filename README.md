@@ -17,7 +17,7 @@ scoop install specscore
 
 ## How updates work
 
-Manifests are published automatically by [GoReleaser](https://goreleaser.com/) on each tagged release of the upstream CLI. Manual edits to `bucket/*.json` will be overwritten on the next release.
+Manifests are published automatically by [GoReleaser](https://goreleaser.com/) on each tagged release of the upstream CLI. Manual edits to `*.json` (root-level, e.g. `specscore.json`) will be overwritten on the next release.
 
 ## License
 
