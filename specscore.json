@@ -1,12 +1,12 @@
 {
-    "version": "0.34.3",
+    "version": "0.34.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/specscore/specscore-cli/releases/download/v0.34.3/specscore_0.34.3_windows_amd64.zip",
+            "url": "https://github.com/specscore/specscore-cli/releases/download/v0.34.4/specscore_0.34.4_windows_amd64.zip",
             "bin": [
                 "specscore.exe"
             ],
-            "hash": "b5c02ef26de73d281bd12d7784ecdf29142817e0d3d8a97b9d80a4808d6f3850"
+            "hash": "3689b482c16470b6e97bc635dede9f91504cf16e8ba1868d7152cb31d73bf6f8"
         }
     },
     "homepage": "https://specscore.md",
